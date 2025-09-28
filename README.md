@@ -39,10 +39,9 @@ Check out my articles: [medium.com/@ruwanielv](https://medium.com/@ruwanielv)
 ### 🌟 Featured Projects
 
 - [Adlync Spring Boot Fullstack](https://github.com/ruwani425/adlync-springboot-fullstack)
-- [React First App](https://github.com/ruwani425/react-first-app)
-- [RAD NodeJS Test](https://github.com/ruwani425/RAD-nodejs-test)
-- [RAD Day 03](https://github.com/ruwani425/RAD-day-03)
-- [RAD First Day](https://github.com/ruwani425/RAD-first-day)
+- [Blood Bank Management System (Layered Architecture)](https://github.com/ruwani425/Blood-Bank-layerd-architecture)
+- [Complaint Management System - Java EE & JSP](https://github.com/ruwani425/CMS-JAVAEE-JSP)
+- [Mental Health Therapy Center (Hibernate)](https://github.com/ruwani425/Mental-Health--Therapy-Center-Hibernate)
 
 ---
 
