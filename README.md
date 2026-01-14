@@ -45,18 +45,12 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruwani425&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="300px" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ruwani425&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="300px" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruwani425&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruwani425&theme=radical" alt="Language Donut Chart" />
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruwani425&theme=radical" alt="Overall Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruwani425&theme=radical" alt="Profile Details" />
 </div>
 
 ---
