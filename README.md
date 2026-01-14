@@ -33,21 +33,26 @@
 
 ---
 
-### 💻 Technologies & Frameworks
+### 💻 Technical Skills
 
-#### 🌐 Languages
+#### ⚙️ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,php" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,hibernate,py" alt="Backend" />
 </p>
 
-#### 🚀 Frameworks & Libraries
+#### 🎨 Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,react,angular,nodejs,express,bootstrap,jquery" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,jquery,figma" alt="Frontend" />
 </p>
 
-#### 🛠️ Tools & Platforms
+#### 🗄️ Database & Networking
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,mysql,mongodb,vercel,netlify" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database" />
+</p>
+
+#### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,netbeans,postman,git,github,linux" alt="Tools" />
 </p>
 
 ---
