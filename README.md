@@ -92,7 +92,7 @@
   <a href="https://medium.com/@ruwanielv" target="blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
   </a>
-  <a href="https://stackoverflow.com/users/20662469" target="blank">
+  <a href="https://stackoverflow.com/users/32377491/ruwani-ranthika" target="blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" />
   </a>
 </p>
